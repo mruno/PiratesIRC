@@ -1,0 +1,34 @@
+in a dark alley
+in an alley
+in $epirate.port $+ 's tavern
+in $epirate.port $+ 's jail
+in the street
+in a muck pile
+in $epirate.port $+ 's gaol
+in $epirate.port $+ 's courthouse
+in $epirate.port $+ 's magazine
+in $epirate.port $+ 's church
+in $epirate.port $+ 's post office
+in $epirate.port $+ 's market
+in a gutter
+in a ditch
+in a trash heap
+in a rubbish pile
+at a beach
+on a sand dune
+outside $epirate.port $+ 's tavern
+outside $epirate.port $+ 's jail
+outside $epirate.port $+ 's gaol
+outside $epirate.port $+ 's courthouse
+outside $epirate.port $+ 's magazine
+outside $epirate.port $+ 's church
+outside $epirate.port $+ 's post office
+outside $epirate.port $+ 's market
+nearby $epirate.port $+ 's tavern
+nearby $epirate.port $+ 's jail
+nearby $epirate.port $+ 's gaol
+nearby $epirate.port $+ 's courthouse
+nearby $epirate.port $+ 's magazine
+nearby $epirate.port $+ 's church
+nearby $epirate.port $+ 's post office
+nearby $epirate.port $+ 's market

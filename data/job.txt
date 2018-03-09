@@ -1,0 +1,35 @@
+a Beggar
+an Architect
+a Milliner
+a Shipbuilder
+a Blacksmith
+a Papermaker
+a Shoemaker
+a Cabinetmaker
+a Peddler
+a Silversmith
+a Doctor
+a Potter
+a Tanner
+a Glassmaker
+a Printer
+a Wigmaker
+a Hatter
+a Farmer
+an Apothecary
+a Chandler
+a Cobbler
+a Gunsmith
+a Tailor
+a Wheelwright
+a Cooper
+a Pickpocket
+a Sailor
+a Justin Bieber backup dancer
+a Pig Farmer
+a former slave
+a Miley Cyrus Furry
+a Stableboy
+a Wench
+a Bartender
+a Preacher

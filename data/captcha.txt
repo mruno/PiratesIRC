@@ -1,0 +1,266 @@
+Yes or no, is your name $me ?*No
+Yes or no, is today $asctime(dddd) ?*Yes
+Yes or no, is today Twosday ?*No
+Yes or no, is the year $asctime(yyyy) ?*Yes
+Yes or no, is the year 2014 ?*No
+What day of the week is it?*$asctime(dddd)
+What year is it? Hint: Use four digits.*$asctime(yyyy)
+What year is it? Hint: Use 2 digits.*$asctime(yy)
+Type the following: Test123*Test123
+What month is it? Hint: Use the full month's name*$asctime(mmmm)
+What number is after three? Hint: use a single numeric digit.*4
+What number is after 1? Hint: use a single numeric digit.*2
+What is three times two = ? Hint: use a single numeric digit.*6
+What number is after 1? Hint: use a single numeric digit.*2
+How many stars are in the American flag?*50
+What character do ye type to play this game? Hint: "!Pirates".*!
+In the Google logo, what color is the G?*blue
+In the Google logo, what color is the e?*red
+Who makes iPhones?*Apple
+Who makes the Android operating system?*google
+Who makes Windows?*microsoft
+What color is the ocean?*blue
+What color is the sky?*blue
+What color is blood?*red
+What is one plus five = ? Hint: use a single numeric digit.*6
+What is 2 - 1 = ? Hint use a single numeric digit.*1
+What is 100 * two = ? Hint: Use a three digits.*200
+What is 2 - 1 = ? Hint: use a single numeric digit.*1
+What is the Pennsylvania state animal? Hint: White-tailed ____.*deer
+Is California a US state or country?*state
+What is the 1st letter in the alphabet?*a
+What is the fourth letter in the alphabet?*d
+What number has the highest value in a scale of 1 to 10?*10
+Yes or no, is three a prime number?*Yes
+Yes or no, is 12 a prime number?*No
+Are ye a bot? Hint: Yes or No*No
+Are ye a player or a bot?*Player
+Yes or no, is juubt a color?*No
+What is ye IRC nickname?*$nick
+What holiday is on Dec. 25?*Christmas
+What is month is Talk Like a Pirate Day in? Hint: Use the full name.*September
+Is a dog an animal or plant?*animal
+Is a flower an animal or a plant?*plant
+What is one times one =? Hint: use a single numeric digit.*1
+What is one divided by one =? Hint: use a single numeric digit.*1
+What is the third letter in the word Pirates?*R
+Which is sweeter, chocolate or broccoli?*chocolate
+Which is salty, a lake or the ocean?*ocean
+Which is more wet, a desert or a swamp?*swamp
+Which is sweeter, a dessert or a desert?*dessert
+Which US stats is bigger, Alaska or Alabama?*Alaska
+Which word comes first, alphabetically: Barn or Apple?*apple
+Which is a fruit, apple or carrot?*apple
+Which is a vegetable, apple or carrot?*carrot
+Which is a vegetable, cat or beans?*beans
+Which is typically the color orange, a cucumber or a carrot?*carrot
+What is 5 + 2 =? Hint: use a single numeric digit.*7
+Typically if you are sad do you cry or laugh?*cry
+Which is funnier, a joke or a carrot?*joke
+Do you like captchas? Answer is No*No
+What letter comes after M?*N
+What is the acronym for Laughing out loud?*LOL
+Is this a happy or sad face: :)*happy
+Is this a happy or sad face: :(*sad
+What goes moo, a horse or a cow?*cow
+What can you smoke, a cigarette or a car?*cigarette
+What year did the War of 1812 start?*1812
+Is Mexico a country? Yes or No*Yes
+What is the acronym for the United States of America?*USA
+What color dominates the Facebook logo?*blue
+Which is more, billion or million?*Billion
+Is an ant an insect or plant?*insect
+A spider has how many legs? Hint: use a single numeric digit.*8
+How many vaginas do female kangaroos have? Hint use a single numeric digit.*3
+In the movie, Back to the Future, what was the time machine, a house or a Delorean?*Delorean
+Which has four legs, a dog or a plant?*dog
+Which has roots, a dog or a plant?*plant
+Which is more fun, rum or a rash?*rum
+Which is is itchy, rum or a rash?*rash
+Which is larger, an elephant or a cow?*elephant
+Which is smaller, an elephant or a cow?*cow
+Which has more value, 2 or 4?*4
+Which has more value, 1 or 9?*9
+Which has more value, two or four? Hint use a single numeric digit.*4
+Which has more legs, a horse or a caterpillar?*caterpillar
+Which walks on two legs, a dog or a human?*human
+Which has stripes, a zebra or a horse?*zebra
+Which is better, candy or sickness?*candy
+Which is worse, candy or sickness?*sickness
+Which is brighter, a wench or the sun?*sun
+What comes next in the following sequence: a, b, c, ?*d
+What comes next in the following sequence: 1, 2, 3, ?*4
+What comes next in the following sequence: 5, 6, 7, ?*8
+What comes next in the following sequence: 4, 3, 2, ?*1
+What comes next in the following sequence: d, c, b, ?*a
+What is the acronym for Greenwich Mean Time?*GMT
+What is the acronym for laugh out loud?*lol
+What is the acronym for by the way?*btw
+What is the acronym for away from keyboard?*afk
+What is the acronym for oh my god?*omg
+What is the acronym for I don't know?*IDK
+What is the acronym for world wide web?*www
+Which is better, doubloons or floggings?*doubloons
+Which is better, booty or monsters?*booty
+What is pirate treasure called? This can also be known as a butt.*booty
+Which is more, a thousand or a million?*million
+Which is less, a million or a thousand?*thousand
+Which is smaller, a mouse or a house?*mouse
+Which is larger, a house or a mouse?*house
+Yes or no, is this a color: blue?*yes
+Yes or no, is this a color: poop?*no
+Yes or no, is this a color: pizza?*no
+Yes or no, is this a color: red?*yes
+Yes or no, is this a color: yellow?*yes
+Yes or no, is this a color: plant?*no
+Yes or no, is this a color: pink?*yes
+Yes or no, is this a color: green?*yes
+Yes or no, is this a color: pimples?*no
+Yes or no, is this an animal: blue?*no
+Yes or no, is this an animal: cow?*yes
+Yes or no, is this an animal: pig?*yes
+Yes or no, is this an animal: tomato?*no
+Yes or no, is this an animal: sky?*no
+Yes or no, is this an animal: mouse?*yes
+Yes or no, is this an animal: bird?*yes
+Yes or no, can a bird fly?*yes
+Yes or no, can a worm fly?*no
+Yes or no, can a plane fly?*yes
+Which is a car company, Toyota or Shizzle?*Toyota
+Which one is nonsense, Toyota or Shizzle?*Shizzle
+Which is a car company, Nissan or WooWoo?*Nissan
+Which one is nonsense, Nissan or WooWoo?*WooWoo
+Which is more, -56 or 56?*56
+Which is more -56 or -121?*-56
+Which occurred later, 2000 B.C. or 1993?*1993
+What is the 2 letter postal code for the US state: Ohio?*OH
+What is the 2 letter postal code for the US state: Maryland?*MD
+What is the 2 letter postal code for the US state: New Jersey?*NJ
+What is the 2 letter postal code for the US state: New York?*NY
+What is the 2 letter postal code for the US state: Michigan?*MI
+Which is smarter, a pig or a flower?*pig
+Which is smarter, a dog or a rock?*dog
+Which is dumber, a pig or a flower?*flower
+Which is dumber, a dog or a rock?*rock
+Which is colder, ice or water?*ice
+Which is a liquid, ice or water?*water
+Which is a solid, ice or water?*ice
+Which is a gas, oxygen or water?*oxygen
+Which is heavier, air or water?*water
+Which is lighter, air or water?*air
+What is the acronym for barbecue?*BBQ
+What country used to be known as the USSR?*Russia
+What country was bombed with atomic weapons in WW2?*Japan
+What was the Nazi home country in WW2?*germany
+What is the official language of Spain?*Spanish
+What is the official language of France?*French
+Which sport uses a smaller ball, football or baseball?*baseball
+Which sport uses a larger ball, football or baseball?*football
+What is the acronym for Eastern Standard Timer?*EST
+What direction does the sun rise?*East
+What direction does the sun set?*West
+In what direction is the north pole?*north
+In what direction is Anartica?*South
+What is the acronym for global positioning system?*GPS
+What do you call someone from Mexico?*mexican
+What do you call someone from Italy?*Italian
+What do you call somsone from China?*Chinese
+Which color is typically darker, yellow or blue?*blue
+Which color is typically lighter, yellow or blue?*yellow
+Tokyo is located in what country?*Japan
+Paris is located in what country?*France
+Berlin is located in what country?*Germany
+Cairo is located in what country?*Egypt
+Reykjavik is located in what country?*Iceland
+Tehran is located in what country?*Iran
+Baghdad is located in what country?*Iraq
+Rome is located in what country?*Italy
+Stockholm is located in what country?*Sweden
+Mexico City is located in what country?*Mexico
+Ottawa is located in what country?*Canada
+Which country is larger, China or Italy?*China
+Which country is larger, Russia or France?*Russia
+Which is sharper, a carrot or a knife?*knife
+Which is edible, a carrot or a knife?*carrot
+Where do you find salt water, an ocean or a lake?*ocean
+Where do you find fresh water, an ocean or a lake?*lake
+Where can you find a shark, in an ocean or in a house?*ocean
+Where can you find a mouse, in an ocean or in a house?*house
+Do you snore when you sleep or eat?*sleep
+Do you chew when you sleep or eat?*eat
+Trick or treat, give me something good to _____?*eat
+What is the heaviest naturally occurring metal on Earth?*plutonium
+How many legs do butterflies have? Hint use a single numeric digit.*6
+What is the most populous country in the world?*China
+Which state is the biggest in the US?*Alaska
+In what year was baseball first played in the US?*1846
+In what country did reggae music originate?*Jamaica
+Who painted the ceiling of the Sistine Chapel?*Michelangelo
+What is the capital city of Afghanistan?*Kabul
+If you mix blue and red, what color do you get?*purple
+If you mix blue and yellow, what color do you get?*green
+If you mix white and red, what color do you get?*pink
+If you mix yellow and red, what color do you get?*orange
+When water is frozen, what kind if state is it in, liquid, gas, or solid?*solid
+When water is boiled, what kind if state is it in, liquid, gas, or solid?*gas
+When water is at room temperature, what kind if state is it in, liquid, gas, or solid?*liquid
+How many degrees Celsius does water boil? Hint: use 3 digits.*100
+How many degrees Fahrenheit does water boil? Hint: use 3 digits.*212
+How many degrees Fahrenheit does water freeze? Hint: use 2 digits.*32
+In a  fire triangle or combustion triangle, the 3 elements fire needs to ignite are: heat, oxidizing agent, and ?*fuel
+In a  fire triangle or combustion triangle, the 3 elements fire needs to ignite are: fuel, oxidizing agent, and ?*heat
+Who is on the one dollar US bill? Hint: George _____*Washington
+Who is on the two dollar US bill? Hint: Thomas _____*Jefferson
+Who is on the five dollar US bill? Hint: Abraham _____*Lincoln
+Who is on the ten dollar US bill? Hint: Alexander _____*Hamilton
+Who is on the twenty dollar US bill? Hint: Andrew _____*Jackson
+Who is on the fifty dollar US bill? Hint: Ulysses S. _____*Grant
+Who is on the one hundred dollar US bill? Hint: Benjamin _____*Franklin
+Who is on the 500 dollar US bill? Hint: William _____*McKinley
+Who is on the 1,000 dollar US bill? Hint: Grover _____*Cleveland
+Who is on the 5,000 dollar US bill? Hint: James _____*Madison
+Who is on the 10,000 dollar US bill? Hint: Salmon P. _____*Chase
+Who is on the 100,000 dollar US bill? Hint: Woodrow _____*Wilson
+Does the sun orbit the Earth?*No
+What is the closest planet to the Sun?*Mercury
+What planet is famous for its big red spot on it?*Jupiter
+Is the sun a star or a planet? Hint: 1 word.*star
+What planet is known as the red planet?*Mars
+What is the name of the first satellite sent into space?*Sputnik
+What is the name of the force holding us to the Earth?*Gravity
+Is the planet Neptune bigger than Earth?*Yes
+Olympus Mons is a large volcanic mountain on which planet?*Mars
+What is the name of Saturn’s largest moon?*Titan
+Ganymede is a moon of which planet?*Jupiter
+Have human beings ever set foot on Mars?*No
+Can humans breathe normally in space as they can on Earth?*No
+What is the name of the 2nd biggest planet in our solar system?*Saturn
+What is the hottest planet in our solar system?*Venus
+What food makes up nearly all (around 99%) of a Giant Panda’s diet?*Bamboo
+True or false? Mice live for up to 10 years.*False
+True or false? Cougar’s are herbivores.*False
+Is a shark a fish or a mammal? Hint Use one word.*fish
+True or false? Rabbits are born blind.*True
+What is the name of the biggest part of the human brain? Hint: Use one word.*cerebrum
+The colored part of the human eye that controls how much light passes through the pupil is called the?*Iris
+What is the name of the substance that gives skin and hair its pigment?*Melanin
+The muscles found in the front of your thighs are known as what?*Quadriceps
+True or false? The two chambers at the bottom of your heart are called ventricles.*True
+True or false? An adult human body has over 500 bones.*False
+How many lungs does the human body have? Hint: use a single numeric digit.*2
+Another name for your voice box is the?*Larynx
+The two holes in your nose are called?*Nostrils
+The bones that make up your spine are called what?*Vertebrae
+The flow of blood through your heart and around your body is called?*Circulation
+The bones around your chest that protect organs such as the heart are called what?*Ribs
+True or false? Your ears are important when it comes to staying balanced.*True
+The outside layer of skin on the human body is called the?*Epidermis
+Did the Apple iPhone first become available in 2003, 2007 or 2009?*2007
+If someone is Italian, what country are they from?*Italy
+If someone is French, what country are they from?*France
+If someone is English, what country are they from?*England
+If someone is Russian, what country are they from?*Russia
+If someone is Japanese, what country are they from?*Japan
+If someone is Chinese, what country are they from?*China
+If someone is South African, what country are they from?*South African
+If someone is Cuban, what country are they from?*Cuba

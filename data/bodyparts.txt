@@ -1,0 +1,55 @@
+head
+forehead
+left eye
+right eye
+left ear
+right ear
+chin
+nose
+left cheek
+right cheek
+neck
+left shoulder
+right shoulder
+left arm
+right arm
+left elbow
+right elbow
+left forearm
+right forearm
+left wrist
+right wrist
+left hand
+right hand
+chest
+abdomen
+stomach
+back
+buttocks
+left thigh
+right thigh
+left hip
+right hip
+pelvis
+groin
+left leg
+right leg
+left shin
+right shin
+left ankle
+right ankle
+left foot
+right foot
+left big toe
+right big toe
+scalp
+mouth
+jaw
+sternum
+left armpit
+right armpit
+left bicep
+right bicep
+genitals
+left knee
+right knee
