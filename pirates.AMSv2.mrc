@@ -1,8 +1,7 @@
 ;PiratesIRC minigame
+;
 ; [AMS] :: Anchor Map Sword (AMSsm) -AKA- Rock Paper Scissors shark mruno
 ; Sat Feb 25 18:38:13 2017 EST
-
-;Use this version or v1, not both AMS minigames at the same time!
 
 on :load: { ams-reset }
 on :start: { ams-reset }
@@ -303,7 +302,7 @@ alias epirate.ams.start {
           else set %notice This be %ams-p2 $+ 's first time playin' AMSSM.
 
           if (%ams-p2 != $epirate.bot) {
-            epirate.notice %ams-p2 %ams-p1 has challenged ye to AMSSM wit' a wager o' $epirate.round(%ams-wager) doubloons! Ye must accept or decline this challenge with either: $amsb(!Pirates AMSSM Accept) or $amsb(!Pirates AMSSM Decline) 
+            epirate.notice %ams-p2 %ams-p1 has challenged ye to AMSSM wit' a wager o' $epirate.round(%ams-wager) doubloons! Ye can accept this challenge wit' $amsb(!Pirates AMSSM Accept)
             ;epirate.notice %ams-p2 %notice
           }
 

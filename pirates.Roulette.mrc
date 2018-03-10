@@ -1,6 +1,5 @@
-;PirateIRC minigame
-;Pirate roulette
-
+;PirateIRC roulette minigame by mruno
+;
 alias EPirate.Roulette.Installed return $true
 alias rr.logo return 
 

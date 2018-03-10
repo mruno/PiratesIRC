@@ -1,8 +1,7 @@
-;PiratesIRC minigame
-;[AMS] :: Anchor Map Sword (AMS) -AKA- Rock Paper Scissors
+; [AMS] :: Anchor Map Sword (AMS) -AKA- Rock Paper Scissors
 ; Wed Nov 09 15:57:48 2016 EST
 
-;Use this version or v2, not both AMS minigames at the same time!
+;add stats to opposing player showing percentages of selections
 
 on :load: { ams-reset }
 on :start: { ams-reset }

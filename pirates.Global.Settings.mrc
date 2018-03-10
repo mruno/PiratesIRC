@@ -1,5 +1,5 @@
 ;------------------------
-;PiratesIRC
+;PiratesIRC by mruno
 ;------------------------
 ;Network Specific stuff in C:\EP\Pirates.<NETWORK>.mrc
 ;Global settings in this file
@@ -257,6 +257,7 @@ alias epirate.Max.Independent.Ports return 3
 alias epirate.max.loops return $calc($calc($hget(epirate.players.all,0).item * 2) + 3)
 
 ;moderator settings
+
 alias epirate.mod.max.bans return 2
 alias epirate.mod.max.ban.mins return 240
 alias epirate.mod.max.brigs return 3
