@@ -1,0 +1,6 @@
+The ship be needin' more crew! Get some friends to enlist to keep the ship underway!
+We be low on crew! $Epirate.Mininum.Players pirates be needed to run the ship!
+The ship can't be run on tis few pirates! Enlist ye friends!
+$epirate.ship be runnin' low on crewmembers... Help the ship by gettin' more pirates to join!
+Man the guns! More pirates needed onboard $epirate.ship $+ !
+Share the deeds o' victory! Enlist ye friends into the crew!
