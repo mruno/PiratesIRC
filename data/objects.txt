@@ -125,7 +125,6 @@ Bullet
 Siren 
 Katana 
 Sushi 
-Notebook 
 House 
 Butter Knife 
 Tv 
@@ -422,3 +421,7 @@ cape
 vase
 bike
 plastic ware
+loot box
+loot crate
+ebook
+jelly bean

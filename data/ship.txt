@@ -1,4 +1,4 @@
-Adventure Galley
+﻿Adventure Galley
 Bachelor's Delight
 Black Joke
 Blanco
@@ -1553,8 +1553,6 @@ Nicodemus
 Niement
 Nieuport
 Nigella
-Niger
-Nigeria
 Nighthawk
 Nightingale
 Nijaden

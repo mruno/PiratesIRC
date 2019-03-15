@@ -65,7 +65,7 @@ on 1:START:{
   if (!$hget(captcha.options)) hmake captcha.options
   if ($exists(captcha.options.dat)) hload captcha.options captcha.options.dat
   else echo -st ERROR captcha.options.dat does not exist
-  .timerCaptcha.Check.If.More.Needed -o 0 600 Captcha.Check.If.More.Needed
+  .timerCaptcha.Check.If.More.Needed -o 0 1800 Captcha.Check.If.More.Needed
   if (!$exists($Alt.Captcha.File.List)) echo -sat $Alt.Captcha.File.List does not exist as captcha alternative list. Format: question*answer
   .timer -o 1 $rand(1,120) Captcha.Check.If.More.Needed
   if (%captcha.dbase.date) && ($Clean.Captcha.Database.Every.XX.Days) {
@@ -141,7 +141,6 @@ alias Captcha.Populate {
 alias Captcha.Create {
   ;/Captcha.Create - creates a captcha question/answer and records it to the hash table
   var %question, %answer, %r $rand(1,23)
-
   if (%r == 1) {
     var %1 $rand(1,9999), %2 $rand(1,9999)
     if (%1 == %2) inc %1 10
@@ -188,7 +187,7 @@ alias Captcha.Create {
   }
   elseif (%r == 5) {
     var %1 $upper($rand(a,z)), %2 $upper($rand(a,z))
-    while (%1 == %2) set %2 $rand(a,z)
+    while (%1 == %2) set %2 $upper($rand(a,z))
     if ($asc(%1) > $asc(%2)) set %answer %2
     else set %answer %1
     var %r $rand(1,3)
@@ -426,7 +425,7 @@ alias Captcha.Create {
       set %chr $gettok(%list,$rand(1,$gettok(%list,0,44)),44)
     }
 
-    set %r $rand(1,3)
+    var %r $rand(1,3)
     if (%r == 1) set %question Symbol, letter, or number? %chr
     elseif (%r == 2) set %question Is the following a letter, number, or symbol? %chr
     else set %question %chr is a symbol, letter, or number?
