@@ -1,0 +1,495 @@
+{
+"page":[
+{
+"updated":"May 22nd 07:06 1655 ET"
+}
+],
+"cities":[
+{
+"city":"Antigua",
+"faction":"Independent",
+"location":"oasis.png",
+"status":"claimed",
+"condition":"Independent city n' claimed by The robothive"
+},
+{
+"city":"Barbados",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish town n' claimed by The Wandering Soul"
+},
+{
+"city":"Bermuda",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"unclaimed",
+"condition":"French city n' be unclaimed"
+},
+{
+"city":"Campeche",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English city n' claimed by The Revenge"
+},
+{
+"city":"Caracas",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English city n' claimed by Dark Sails"
+},
+{
+"city":"Cartagena",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish city n' claimed by Black Laks"
+},
+{
+"city":"Coro",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"claimed",
+"condition":"French city n' claimed by The Wandering Soul"
+},
+{
+"city":"Cumana",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch town n' claimed by Dark Sails"
+},
+{
+"city":"Curacao",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch city n' claimed by The robothive"
+},
+{
+"city":"Eluthera",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"claimed",
+"condition":"French city n' claimed by Dark Sails"
+},
+{
+"city":"Florida_Keys",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"unclaimed",
+"condition":"Dutch city n' be unclaimed"
+},
+{
+"city":"Gibraltar",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English city n' claimed by The robothive"
+},
+{
+"city":"Gran_Grenada",
+"faction":"Independent",
+"location":"oasis.png",
+"status":"unclaimed",
+"condition":"Independent city n' be unclaimed"
+},
+{
+"city":"Grand_Bahama",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch city n' claimed by Mousey McMouseface"
+},
+{
+"city":"Guadeloupe",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"claimed",
+"condition":"French stronghold n' claimed by The Wandering Soul"
+},
+{
+"city":"Havana",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"unclaimed",
+"condition":"Spanish city n' be unclaimed"
+},
+{
+"city":"Leogane",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish town n' claimed by The robothive"
+},
+{
+"city":"Maracaibo",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch city n' claimed by The robothive"
+},
+{
+"city":"Margarita",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish town n' claimed by The robothive"
+},
+{
+"city":"Martinique",
+"faction":"Pirate",
+"location":"Pirate-Building-town-hall.png",
+"status":"unclaimed",
+"condition":"Pirate haven n' be unclaimed"
+},
+{
+"city":"Montserrat",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"claimed",
+"condition":"French city n' claimed by The robothive"
+},
+{
+"city":"Nassau",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch city n' claimed by Dark Sails"
+},
+{
+"city":"Nevis",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English city n' claimed by The Elite"
+},
+{
+"city":"Nombre_de_Dios",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch stronghold n' claimed by Twisted Mystic"
+},
+{
+"city":"Panama",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"unclaimed",
+"condition":"English city n' be unclaimed"
+},
+{
+"city":"Petit_Goave",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"claimed",
+"condition":"French town n' claimed by Mousey McMouseface"
+},
+{
+"city":"Port-de-Paix",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English stronghold n' claimed by Rising Sun"
+},
+{
+"city":"Puerto_Bello",
+"faction":"Independent",
+"location":"oasis.png",
+"status":"claimed",
+"condition":"Independent city n' claimed by The Revenge"
+},
+{
+"city":"Puerto_Cabello",
+"faction":"Independent",
+"location":"oasis.png",
+"status":"claimed",
+"condition":"Independent stronghold n' claimed by The robothive"
+},
+{
+"city":"Puerto_Principe",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"claimed",
+"condition":"French city n' claimed by Mousey McMouseface"
+},
+{
+"city":"Rio_de_la_Hacha",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish town n' claimed by The robothive"
+},
+{
+"city":"San_Juan",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish city n' claimed by Rising Sun"
+},
+{
+"city":"Santa_Catalina",
+"faction":"Independent",
+"location":"oasis.png",
+"status":"unclaimed",
+"condition":"Independent stronghold n' be unclaimed"
+},
+{
+"city":"Santa_Marta",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"claimed",
+"condition":"French city n' claimed by The robothive"
+},
+{
+"city":"Santiago_de_La_Vega",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English town n' claimed by Mousey McMouseface"
+},
+{
+"city":"Santiago",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English city n' claimed by Mousey McMouseface"
+},
+{
+"city":"Santo_Domingo",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch town n' claimed by Rising Sun"
+},
+{
+"city":"Sint_Maarten",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"claimed",
+"condition":"Dutch town n' claimed by Rising Sun"
+},
+{
+"city":"St_Augustine",
+"faction":"Dutch",
+"location":"Glassblower.png",
+"status":"unclaimed",
+"condition":"Dutch stronghold n' be unclaimed"
+},
+{
+"city":"St_Eustatius",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"claimed",
+"condition":"English stronghold n' claimed by The Elite"
+},
+{
+"city":"St_Kitts",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish town n' claimed by The Elite"
+},
+{
+"city":"St_Martin",
+"faction":"Independent",
+"location":"oasis.png",
+"status":"claimed",
+"condition":"Independent city n' claimed by Rising Sun"
+},
+{
+"city":"Tortuga",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"unclaimed",
+"condition":"Spanish town n' be unclaimed"
+},
+{
+"city":"Trinidad",
+"faction":"Spanish",
+"location":"IndustrialAge_Military4.png",
+"status":"claimed",
+"condition":"Spanish town n' claimed by The Wandering Soul"
+},
+{
+"city":"Vera_Cruz",
+"faction":"English",
+"location":"GreatSwordBarracks.png",
+"status":"unclaimed",
+"condition":"English city n' be unclaimed"
+},
+{
+"city":"Villa_Hermosa",
+"faction":"French",
+"location":"Dye_Works.png",
+"status":"unclaimed",
+"condition":"French city n' be unclaimed"
+}
+],
+"ships":[
+{
+"network":"MYANONAMOUSE",
+"name":"Mousey McMouseface",
+"location":"Pirate-Coins02.png",
+"lat":"20",
+"lon":"37.6",
+"ship":"2004_Ship_Sloop.png",
+"condition":"docked Florida Keys"
+},
+{
+"network":"Freenode",
+"name":"The Golden Hind",
+"location":"Pirate-Firearms-blunderbuss-icon.png",
+"lat":"42",
+"lon":"27.4",
+"ship":"Pirate-Ship-karakka.png",
+"condition":"sailin' to Port-de-Paix at 7kts"
+},
+{
+"network":"TwistedNET",
+"name":"Twisted Mystic",
+"location":"Pirate-Six-cannon-icon-0.png",
+"lat":"85",
+"lon":"42.7",
+"ship":"Pirate-Ship-galleon.png",
+"condition":"docked Nombre de Dios"
+},
+{
+"network":"XeroMem",
+"name":"Rising Sun",
+"location":"Pirate-Cutlass-fine-icon.png",
+"lat":"3.5",
+"lon":"37.6",
+"ship":"Pirate-Ship-howker.png",
+"condition":"sailin' to St. Augustine at 12kts"
+},
+{
+"network":"LaksNet",
+"name":"Black Laks",
+"location":"Pirate-Cannon-bastard-icon.png",
+"lat":"85",
+"lon":"52.9",
+"ship":"2004_Ship_MerchantGalleon.png",
+"condition":"docked Cartagena"
+},
+{
+"network":"darkscience",
+"name":"Dark Sails",
+"location":"Pirate-Valorous-cannon-icon.png",
+"lat":"36.5",
+"lon":"42.7",
+"ship":"Pirate-Ship-kogg.png",
+"condition":"docked Puerto Principe"
+},
+{
+"network":"Abandoned-IRC",
+"name":"The Wandering Soul",
+"location":"Pirate-Cutlass-sharped-icon.png",
+"lat":"55",
+"lon":"88.6",
+"ship":"Pirate-Ship-shallop.png",
+"condition":"docked Guadeloupe"
+},
+{
+"network":"robothiveIRC",
+"name":"The robothive",
+"location":"Pirate-Firearms-tromblon-icon.png",
+"lat":"31",
+"lon":"52.9",
+"ship":"pirate-ship.png",
+"condition":"moored K6"
+},
+{
+"network":"Rizon",
+"name":"The Elite",
+"location":"Pirate-Homing-da-vinchi-cannon-icon.png",
+"lat":"55",
+"lon":"83.5",
+"ship":"creed-iv-black-fl-pirate-ship.png",
+"condition":"sailin' to Tortuga at 12kts"
+},
+{
+"network":"OFTC",
+"name":"The Revenge",
+"location":"barbossa.png",
+"lat":"36.5",
+"lon":"63.1",
+"ship":"TheRevenge.png",
+"condition":"be a bot ship n' sailin' to Nassau at 12kts"
+},
+{
+"network":"159014557168795150",
+"name":"Storm",
+"location":"storm3.png",
+"lat":"67.7",
+"lon":"36.8",
+"ship":"storm3.png",
+"condition":"H12"
+},
+{
+"network":"159014557186625000",
+"name":"Typhoon",
+"location":"tempest.png",
+"lat":"78.7",
+"lon":"31.9",
+"ship":"tempest.png",
+"condition":"G14"
+},
+{
+"network":"159014557162611184",
+"name":"Tempest",
+"location":"tempest.png",
+"lat":"9",
+"lon":"87",
+"ship":"tempest.png",
+"condition":"R2"
+},
+{
+"network":"159014557182745790",
+"name":"Hurricane",
+"location":"hurricane.png",
+"lat":"21",
+"lon":"26.8",
+"ship":"hurricane.png",
+"condition":"F4"
+},
+{
+"network":"159014557161493452",
+"name":"Rogue Wave",
+"location":"wave.png",
+"lat":"73.2",
+"lon":"31.9",
+"ship":"wave.png",
+"condition":"G13"
+},
+{
+"network":"159014557143573254",
+"name":"Cyclone",
+"location":"cyclone2.png",
+"lat":"55.5",
+"lon":"31.9",
+"ship":"cyclone2.png",
+"condition":"G10"
+},
+{
+"network":"1590144706",
+"name":"Treasure: M14",
+"location":"mweb_chest371.png",
+"lat":"78.7",
+"lon":"62",
+"ship":"mweb_chest371.png",
+"condition":"Big n' Gold! Sail to M14 then P Scour"
+},
+{
+"network":"1590145571",
+"name":"Treasure Hunt",
+"location":"treasure-map2.png",
+"lat":"61.5",
+"lon":"7",
+"ship":"treasure-map2.png",
+"condition":"Thar be a treasure hunt in progress! P Treasure"
+}
+]
+}
